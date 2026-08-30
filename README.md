@@ -39,7 +39,7 @@ Build the technical skills required to work effectively with modern software dev
 **Git is a version control system.**
 *Documentation as Code*
 - Git: version-control system to track changes to files.
-- GitHub: Hosts repos and supports collaboration (clone, create repos, PRs, Commits, Pushc, merge changes and review).
+- GitHub: Hosts repos and supports collaboration (clone, create repos, PRs, Commits, Push, merge changes and review).
 - Markdown: Lightweight markup language for writing content in structured way
 - APIs: Application Program Interface
 1. Write
