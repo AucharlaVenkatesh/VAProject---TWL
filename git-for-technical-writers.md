@@ -23,4 +23,4 @@ Git helps technical writers manage documentation changes and collaborate with en
 
 ## Benefits for Documentation Teams
 
-Git provides version control and traceability for documentation teams.
+Git provides version control and collaboration for documentation teams.
